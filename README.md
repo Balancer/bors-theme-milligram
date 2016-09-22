@@ -1,5 +1,7 @@
 bors-theme-milligram
 ====================
 
-Milligram BORS theme
+Milligram BORS theme.
+
+http://milligram.github.io/
 
