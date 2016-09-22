@@ -1,0 +1,14 @@
+{
+	"name": "balancer/bors-theme-milligram",
+	"description": "Milligram theme support for BORS© Framework",
+
+	"authors": [
+		{"name": "Balancer", "email": "balancer@balancer.ru" }
+	],
+
+	"autoload": {
+        "psr-4": {
+            "B2\\": "src"
+        }
+	}
+}
