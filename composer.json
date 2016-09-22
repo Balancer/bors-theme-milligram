@@ -1,6 +1,7 @@
 {
 	"name": "balancer/bors-theme-milligram",
 	"description": "Milligram theme support for BORS© Framework",
+	"license": "MIT",
 
 	"authors": [
 		{"name": "Balancer", "email": "balancer@balancer.ru" }
