@@ -16,4 +16,4 @@ foreach(bors_lib_object::parent_lines($self) as $breadcrumbs_line)
 	$result[] = join(' » ', $line);
 }
 
-return join("<br/>\n", $result);
+echo join("<br/>\n", $result);
